@@ -9,6 +9,5 @@ public class DemoTesNG {
 	  WrapperClass wc = new WrapperClass();
 		wc.LoadDriver();
 		wc.registration();
-		System.out.println("this is test change to learn git");
   }
 }
